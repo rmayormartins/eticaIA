@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Carro Autônomo",
+        "description": "Um carro autônomo deve escolher entre colidir com um grupo de pedestres ou sacrificar seu passageiro. O que ele deve fazer?",
+        "options": [
+            "Proteger os pedestres",
+            "Proteger o passageiro"
+        ]
+    },
+    {
+        "title": "IA na Saúde",
+        "description": "Uma IA de diagnóstico médico identifica um possível problema de saúde em um paciente, mas com baixa confiança. Deve alertar o paciente?",
+        "options": [
+            "Alertar o paciente",
+            "Não alertar o paciente"
+        ]
+    }
+]
